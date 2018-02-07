@@ -1,7 +1,1 @@
-Nama  : Usama
-
-NPM   : 1606862766
-
-Kelas : OS - C
-
-SSO   : usama
+ZCZC Sistem Operasi 2018 Awal (1)
